@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TommasoBecchi
 - 👀 I’m interested in Bioinformatics, Data Analysis and Statistics
-- 🌱 I’m currently working as researcher at the Department of Biology in the University of Padova, Italy
+- 🌱 I’m currently working as a PhD student @SEMM in the CGB lab (https://www.ceredalab.com) 
 - :bar_chart: I love making nice graphs that simplify data visualization and interpretation  
 - 📫 How to reach me: tommaso.becchi@outlook.com
 
